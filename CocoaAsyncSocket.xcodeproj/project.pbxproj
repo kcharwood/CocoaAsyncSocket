@@ -451,6 +451,7 @@
 		6CD990251B77868C0011A685 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -468,6 +469,7 @@
 		6CD990261B77868C0011A685 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -592,6 +594,7 @@
 				7D8B70CA1BCFA15700D8E273 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FC41F261B9D965000578BEB /* Build configuration list for PBXNativeTarget "Mac CocoaAsyncSocket" */ = {
 			isa = XCConfigurationList;
